@@ -80,7 +80,7 @@ function get_random(list) {
 
 function RandomResult() {
   const Posibilities = {
-    existence: [1, 1],
+    existence: [0, 1],
     file: [
       "HTML",
       "CSS",
